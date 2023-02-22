@@ -1,0 +1,17 @@
+{
+  "employee": [
+    {
+      "id":3,
+      "firstName":"esraa",
+      "lastName":"fahmy",
+      "email":"esraafahmy03@gmail.com",
+      "salary":25000
+  }
+  ,{
+    "firstName":"esraa2",
+    "lastName":"fahmy",
+    "email":"esraafahmy03@gmail.com",
+    "salary":50000
+}
+  ]
+}
